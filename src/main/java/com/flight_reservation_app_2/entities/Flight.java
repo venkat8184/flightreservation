@@ -4,7 +4,7 @@ import java.sql.Timestamp;
 import java.util.Date;
 
 import javax.persistence.Entity;
-
+//this is entity
 @Entity
 public class Flight extends AbstarctEntity{
 public String getFlightNumber() {
